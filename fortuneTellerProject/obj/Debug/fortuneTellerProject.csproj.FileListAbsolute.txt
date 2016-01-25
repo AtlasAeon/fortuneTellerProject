@@ -1,0 +1,6 @@
+C:\Users\We Can Code IT\Documents\Visual Studio 2015\Projects\fortuneTellerProject\fortuneTellerProject\bin\Debug\fortuneTellerProject.exe.config
+C:\Users\We Can Code IT\Documents\Visual Studio 2015\Projects\fortuneTellerProject\fortuneTellerProject\bin\Debug\fortuneTellerProject.exe
+C:\Users\We Can Code IT\Documents\Visual Studio 2015\Projects\fortuneTellerProject\fortuneTellerProject\bin\Debug\fortuneTellerProject.pdb
+C:\Users\We Can Code IT\Documents\Visual Studio 2015\Projects\fortuneTellerProject\fortuneTellerProject\obj\Debug\fortuneTellerProject.exe
+C:\Users\We Can Code IT\Documents\Visual Studio 2015\Projects\fortuneTellerProject\fortuneTellerProject\obj\Debug\fortuneTellerProject.pdb
+C:\Users\We Can Code IT\Documents\Visual Studio 2015\Projects\fortuneTellerProject\fortuneTellerProject\obj\Debug\fortuneTellerProject.csprojResolveAssemblyReference.cache
